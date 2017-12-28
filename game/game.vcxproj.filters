@@ -19,9 +19,20 @@
       <Filter>Файлы исходного кода</Filter>
     </ClCompile>
   </ItemGroup>
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+  <ItemGroup>
+    <ClInclude Include="map.h">
+      <Filter>Заголовочные файлы</Filter>
+    </ClInclude>
+  </ItemGroup>
+>>>>>>> feature
+=======
   <ItemGroup>
     <ClInclude Include="menu.h">
       <Filter>Заголовочные файлы</Filter>
     </ClInclude>
   </ItemGroup>
+>>>>>>> release
 </Project>
