@@ -13,6 +13,12 @@
   <ItemGroup>
     <ClCompile Include="main.cpp" />
   </ItemGroup>
+<<<<<<< HEAD
+=======
+  <ItemGroup>
+    <ClInclude Include="map.h" />
+  </ItemGroup>
+>>>>>>> feature
   <PropertyGroup Label="Globals">
     <ProjectGuid>{A2F0FD7E-A712-42AC-847A-CB3C14670073}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
