@@ -13,9 +13,18 @@
   <ItemGroup>
     <ClCompile Include="main.cpp" />
   </ItemGroup>
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+  <ItemGroup>
+    <ClInclude Include="map.h" />
+  </ItemGroup>
+>>>>>>> feature
+=======
   <ItemGroup>
     <ClInclude Include="menu.h" />
   </ItemGroup>
+>>>>>>> release
   <PropertyGroup Label="Globals">
     <ProjectGuid>{A2F0FD7E-A712-42AC-847A-CB3C14670073}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
