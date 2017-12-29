@@ -1,4 +1,4 @@
-#include "map.h"
+/*#include "map.h"
 extern sf::String TileMap[HEIGHT_MAP]= {
 "000000000000000000000",
 "0                   0",
@@ -45,3 +45,4 @@ countStone--;
 }
 
 }
+*/
